@@ -1,8 +1,7 @@
-package Calculator;
-
+package BeginnerLevel;
 import java.util.Scanner;
 
-public class Main {
+public class Calculator {
     public static void main(String[] args) {
 //      Scanner definition
         Scanner input1 = new Scanner(System.in);
